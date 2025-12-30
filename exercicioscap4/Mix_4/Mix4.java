@@ -1,4 +1,4 @@
-package exerciciocap4.Mix_4;
+package exercicioscap4.Mix_4;
 
 public class Mix4 {
     int counter = 0;

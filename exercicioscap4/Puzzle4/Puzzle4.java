@@ -1,4 +1,4 @@
-package exerciciocap4.Puzzle4;
+package exercicioscap4.Puzzle4;
 
 public class Puzzle4 {
     public static void main(String[] args){

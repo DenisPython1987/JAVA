@@ -1,4 +1,4 @@
-package exerciciocap4.XCopy;
+package exercicioscap4.XCopy;
 
 public class XCopyTestDrive {
     public static void main(String[] args){

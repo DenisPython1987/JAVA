@@ -1,4 +1,4 @@
-package exerciciocap4.Clock;
+package exercicioscap4.Clock;
 
 public class ClockTestDrive {
     public static void main(String[] args){
