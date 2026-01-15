@@ -7,6 +7,8 @@ public class Mixed2 {
         C c = new C();
         A a2 = new C();
 
-        
+        a2.m1();
+        a2.m2();
+        a2.m3();
     }
 }
